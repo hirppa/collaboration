@@ -8,7 +8,7 @@ This collaboration model is designed as the next practical step for **a solo dev
 
 ## Roles
 
-### Product Owner
+### Project Owner
 
 - Business requirements
 - Prioritizing
@@ -31,14 +31,14 @@ This collaboration model is designed as the next practical step for **a solo dev
 
 ## Collaboration Structure
 
-Product owner ↔ Senior developer ↔ Junior developer
+Project owner ↔ Senior developer ↔ Junior developer
 
 ## Development Workflow
 
-1. Product owner defines the business requirements
+1. Project owner defines the business requirements
 2. Senior developer creates the software requirements specification
 3. Junior developer implements the specified requirements
 4. Senior developer reviews and approves the implementation
 5. Senior developer deploys and tests the approved implementation in the test environment
-6. Product owner approves the implementation
-7. Senior developer deploys the approved implementation to the production environment
+6. Project owner approves the implementation
+7. Senior developer deploys the approved implementation to the projection environment
