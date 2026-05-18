@@ -11,7 +11,8 @@ This collaboration model is designed as the next practical step for **a solo dev
 ### Product Owner
 
 - Business requirements
-- Administrative access to project infrastructure
+- Prioritizing
+- Full access for continuity
 
 ### Senior Full-Stack Developer
 
