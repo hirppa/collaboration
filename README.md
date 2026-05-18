@@ -12,6 +12,7 @@ This collaboration model is designed as the next practical step for **a solo dev
 
 - Business requirements
 - Prioritizing
+- Approve final implementation
 - Full access for continuity
 
 ### Senior Full-Stack Developer
