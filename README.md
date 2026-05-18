@@ -41,4 +41,4 @@ Project owner ↔ Senior developer ↔ Junior developer
 4. Senior developer reviews and approves the implementation
 5. Senior developer deploys and tests the approved implementation in the test environment
 6. Project owner approves the implementation
-7. Senior developer deploys the approved implementation to the projection environment
+7. Senior developer deploys the approved implementation to the production environment
