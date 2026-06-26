@@ -11,9 +11,9 @@ This collaboration model is designed as the next practical step for **a solo dev
 ### Project Owner
 
 - Business requirements
-- Prioritizing
-- Approve final implementation
-- Full access for continuity
+- Prioritization
+- Final implementation approval
+- Full project access
 
 ### Senior Full-Stack Developer
 
@@ -21,13 +21,14 @@ This collaboration model is designed as the next practical step for **a solo dev
 - Technical documentation
 - Code review
 - Deployment and testing
+- Cloud environment management
 
 ### Junior Full-Stack Developer
 
-- Implementation
-    - Code generation
-    - Refactoring and testing
-    - Pull requests
+- Code writing
+- Code generation
+- Refactoring and testing
+- Pull requests
 
 ## Collaboration Structure
 
